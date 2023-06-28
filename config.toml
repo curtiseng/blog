@@ -1,4 +1,4 @@
-baseURL = "https://fallingyang.github.io"
+baseURL = "https://curtiseng.github.io"
 languageCode = "zh-CN"
 title = "往事随风的博客"
 theme = "maupassant"
@@ -19,7 +19,7 @@ disablePathToLower = true
   [[params.links]]
     title = "容器网络"
     name = "Docker与Kubernetes网络"
-    url = "https://github.com/fallingyang/container-networking-docker-kubernetes"
+    url = "https://github.com/curtiseng/container-networking-docker-kubernetes"
 [menu]
   [[menu.main]]
     identifier = "archives"
@@ -38,6 +38,6 @@ disablePathToLower = true
 
 [params.utteranc]
     enable = true
-    repo = "fallingyang/blog"    # 存储评论的Repo，格式为 owner/repo
+    repo = "curtiseng/blog"    # 存储评论的Repo，格式为 owner/repo
     issueTerm = "pathname"  #表示你选择以那种方式让github issue的评论和你的文章关联。
     theme = "github-light" # 样式主题，有github-light和github-dark两种
