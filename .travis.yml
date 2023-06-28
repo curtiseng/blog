@@ -11,10 +11,10 @@ deploy:
   on:
     branch: master
   local_dir: public
-  repo: fallingyang/fallingyang.github.io
+  repo: curtiseng/curtiseng.github.io
   target_branch: master
   email: zifeng.1024@gmail.com
-  name: fallingyang
+  name: curtiseng
 env:
   global:
     secure: tsh5O390cwLInj59ZQkVuqvMEKzm6A5ZCPM0jITDQ/nDl/r6L685vzcoPGeJaeufPW3YLvY+yGbd3iYla4/T9aUCTtmHWRMtvN7ogjC4o7vywHITtgtMVAAZSfcVktBY/ttlj3LEWCoOQaFndu2U8eLHg2onx130h6ZITJe9a9m9cwX+dYaBjRlTMMw5Oqwfu3jZUDfSuo7QWEdj2DfBLYpEBy4PKD2j+uIDn5TtXqLMviYnvIWySU8/8Lm9RJPFDWokbpY+LJ2DHi2L506v+xHsFiP9e/QcaWHDQi3fNy3y1dcOy+N8DrtG7h/sNSVbRo1pvKYwoB3wSJkj1EyOL4CwYai2cTNS4aJE0dibXGU+4ONSjFwApng3/FEo2CuXyCXIYVZJjFGVl9gGBpCzXhfGDoO/ImPAERY9IE1FR7mhwsByPpj4ShIz3Y9YgdcM03th+UsWqLpIk4Kmejbzyb6HVVYxdIVw8+FaTAc0jhghjhNGF2Wn2Oidp9KhCnpu5hCGShlgmreQcvuvA5jqaGgqnH10XstewXHqnTO/hoya4nsZ6WDGyIsb+S6ouRjB0iq+Zgj4Xt05loBJiYo2tA+jkSh3F/ngw8ociREX+kWu5bDHOKANuKlllI7lLGR9JEHNhT8MUkajIK8nCfAuTM8JgWMOZjDSRjfASrYGokc=
